@@ -249,12 +249,12 @@ print("Enter:")
 //print(value + " MB")
 
 // 86. 그림파일 저장
-//let nums = readLine()!.components(separatedBy: " ").map { Int($0)! }
-//var total = Double(nums[0]*nums[1]*nums[2])/8.0/1024.0/1024.0
-//let formatter = NumberFormatter()
-//formatter.minimumFractionDigits = 2
-//formatter.maximumFractionDigits = 2
-//print(formatter.string(for: total))
+let nums = readLine()!.components(separatedBy: " ").map { Int($0)! }
+var total = Double(nums[0]*nums[1]*nums[2])/8.0/1024.0/1024.0
+let formatter = NumberFormatter()
+formatter.minimumFractionDigits = 2
+formatter.maximumFractionDigits = 2
+print(formatter.string(for: total))
 
 
 // 87.
