@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		99B7251A22CDC9F0004FBCFE /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99B7251922CDC9F0004FBCFE /* main.swift */; };
+		99B7252122CDFAE2004FBCFE /* Reference1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99B7252022CDFAE2004FBCFE /* Reference1.swift */; };
+		99B7252322CDFB1B004FBCFE /* Reference2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99B7252222CDFB1B004FBCFE /* Reference2.swift */; };
+		99B7252522CDFB50004FBCFE /* Reference3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99B7252422CDFB50004FBCFE /* Reference3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		99B7251622CDC9F0004FBCFE /* Kakao2018OpenChat */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Kakao2018OpenChat; sourceTree = BUILT_PRODUCTS_DIR; };
 		99B7251922CDC9F0004FBCFE /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		99B7252022CDFAE2004FBCFE /* Reference1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reference1.swift; sourceTree = "<group>"; };
+		99B7252222CDFB1B004FBCFE /* Reference2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reference2.swift; sourceTree = "<group>"; };
+		99B7252422CDFB50004FBCFE /* Reference3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reference3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				99B7251922CDC9F0004FBCFE /* main.swift */,
+				99B7252022CDFAE2004FBCFE /* Reference1.swift */,
+				99B7252222CDFB1B004FBCFE /* Reference2.swift */,
+				99B7252422CDFB50004FBCFE /* Reference3.swift */,
 			);
 			path = Kakao2018OpenChat;
 			sourceTree = "<group>";
@@ -120,6 +129,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				99B7251A22CDC9F0004FBCFE /* main.swift in Sources */,
+				99B7252522CDFB50004FBCFE /* Reference3.swift in Sources */,
+				99B7252322CDFB1B004FBCFE /* Reference2.swift in Sources */,
+				99B7252122CDFAE2004FBCFE /* Reference1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
